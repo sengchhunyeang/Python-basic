@@ -13,4 +13,3 @@ convertStringToInt=int(string)
 print("Result",int(convertStringToInt+b))
 
 
-
