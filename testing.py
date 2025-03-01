@@ -13,5 +13,5 @@ print(a)
 # text type
 name = "Seng Chhunyeang"
 gender = "Male"
-place = "Kampong Chhange "
+place = "Kampong Chhange"
 print("MyName: " + name + "\nMySex: " + gender + "\nMyPlace: " + place)

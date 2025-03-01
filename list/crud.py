@@ -11,3 +11,6 @@ print("My list updated :",my_list)
 # remove list
 my_list.remove(my_list[3])
 print("my list removed :",my_list)
+
+def greeting(name):
+    print("Hello:",name)
